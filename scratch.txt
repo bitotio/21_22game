@@ -1,0 +1,15 @@
+21_22game  C:\Users\User\Documents\GitHub\21_22game
+  .venv  library root
+    Lib
+    Scripts
+    .gitignore
+    pyvenv.cfg
+  .gitattributes
+  .gitignore
+  LICENSE
+  main.py
+  plane.jpg
+  plane2.jpg
+  sky.jpg
+External Libraries
+Scratches and Consoles
